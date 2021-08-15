@@ -1,0 +1,9 @@
+ &BANDS
+                      prefix = 'B1_opV' ,
+                      outdir = './tmp/' ,
+                     filband = 'B1_opV-bands-dn' ,
+                     plot_2d = .false. ,    
+    spin_component = 2 ,
+    no_overlap = .true. ,
+
+ /

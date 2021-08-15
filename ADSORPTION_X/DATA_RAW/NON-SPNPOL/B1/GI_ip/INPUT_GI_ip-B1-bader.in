@@ -1,0 +1,15 @@
+&INPUTPP
+                 outdir= './tmp/'
+                 prefix = 'GI_ip' ,
+                 filplot = 'GI_ip-bader'
+                 plot_num = 0,
+                 spin_component = 0,    
+ /
+&PLOT
+                 nfile = 1 
+                 filepp(1) = 'GI_ip-bader'
+                 weight(1) = 1.0 ,
+                 fileout = 'GI_ip-bader.cube',
+                 iflag  = 3,
+                 output_format = 6
+ /

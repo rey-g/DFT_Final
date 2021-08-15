@@ -1,0 +1,11 @@
+===== PG =====
+
+top_C/
+	!    total energy              =    -645.04214098 Ry
+
+top_LH/
+	!    total energy              =    -644.99633394 Ry
+
+top_XC/
+	!    total energy              =    -645.07985584 Ry
+

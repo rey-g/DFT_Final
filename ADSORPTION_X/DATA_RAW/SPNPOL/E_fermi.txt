@@ -1,0 +1,32 @@
+===== GF_ip =====
+
+     the Fermi energy is    -1.3191 ev
+
+===== GF_op =====
+
+     the Fermi energy is    -1.3972 ev
+
+===== GCl_ip =====
+
+     the Fermi energy is    -1.7343 ev
+
+===== GCl_op =====
+
+     the Fermi energy is    -1.3327 ev
+
+===== GBr_ip =====
+
+     the Fermi energy is    -1.3909 ev
+
+===== GBr_op =====
+
+     the Fermi energy is    -3.0384 ev
+
+===== GI_ip =====
+
+     the Fermi energy is    -0.8335 ev
+
+===== GI_op =====
+
+     the Fermi energy is    -2.9139 ev
+

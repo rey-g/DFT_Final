@@ -1,0 +1,15 @@
+&INPUTPP
+                 outdir= './tmp_ads/'
+                 prefix = 'GI_op_ads' ,
+                 filplot = 'GI_chgbader_ads'
+                 plot_num = 0,
+                 spin_component = 0,    
+ /
+&PLOT
+                 nfile = 1 
+                 filepp(1) = 'GI_chgbader_ads'
+                 weight(1) = 1.0 ,
+                 fileout = 'GI_chgbader_ads.cube',
+                 iflag  = 3,
+                 output_format = 6
+ /

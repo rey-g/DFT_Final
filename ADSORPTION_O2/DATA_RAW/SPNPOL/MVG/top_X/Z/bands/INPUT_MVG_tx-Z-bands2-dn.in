@@ -1,0 +1,8 @@
+ &BANDS
+                      prefix = 'MVG_tx' ,
+                      outdir = './tmp/' ,
+                     filband = 'MVG_tx-bands-dn' ,
+                     plot_2d = .false. ,
+    spin_component = 2 ,
+    no_overlap = .true. ,
+ /

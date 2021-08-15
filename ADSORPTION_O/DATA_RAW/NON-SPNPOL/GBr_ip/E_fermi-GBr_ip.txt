@@ -1,0 +1,20 @@
+===== GBr_ip =====
+
+top_C/
+	     the Fermi energy is    -2.0042 ev
+
+top_LH/
+	     the Fermi energy is    -2.2386 ev
+
+top_opp/
+	     the Fermi energy is    -2.6979 ev
+
+top_vac/
+	     the Fermi energy is    -2.2382 ev
+
+top_X/
+	     the Fermi energy is    -2.2354 ev
+
+top_XC/
+	     the Fermi energy is    -2.0091 ev
+

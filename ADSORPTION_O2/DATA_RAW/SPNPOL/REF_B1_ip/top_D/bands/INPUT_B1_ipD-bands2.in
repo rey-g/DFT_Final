@@ -1,0 +1,6 @@
+ &BANDS
+                      prefix = 'B1_ipD' ,
+                      outdir = './tmp/' ,
+                     filband = 'B1_ipD-bands' ,
+                     plot_2d = .false. ,
+ /

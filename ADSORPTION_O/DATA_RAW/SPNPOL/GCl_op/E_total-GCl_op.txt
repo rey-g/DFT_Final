@@ -1,0 +1,20 @@
+===== GCl_op =====
+
+top_C/
+	!    total energy              =    -687.69420423 Ry
+
+top_LH/
+	!    total energy              =    -687.56533248 Ry
+
+top_opp/
+	!    total energy              =    -687.48547359 Ry
+
+top_vac/
+	!    total energy              =    -687.56299234 Ry
+
+top_X/
+	!    total energy              =    -687.48546467 Ry
+
+top_XC/
+	!    total energy              =    -687.56418189 Ry
+

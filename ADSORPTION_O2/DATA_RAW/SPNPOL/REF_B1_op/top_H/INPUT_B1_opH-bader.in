@@ -1,0 +1,15 @@
+&INPUTPP
+                 outdir= './tmp/'
+                 prefix = 'B1_opH' ,
+                 filplot = 'B1_opH-bader'
+                 plot_num = 0,
+                 spin_component = 0,    
+ /
+&PLOT
+                 nfile = 1 
+                 filepp(1) = 'B1_opH-bader'
+                 weight(1) = 1.0 ,
+                 fileout = 'B1_opH-bader.cube',
+                 iflag  = 3,
+                 output_format = 6
+ /

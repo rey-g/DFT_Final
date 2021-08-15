@@ -1,0 +1,6 @@
+&BANDS
+	prefix = 'GF_op' ,
+	outdir = './tmp/' ,
+	filband = 'GF_op-bands' ,
+	plot_2d = .false. ,
+/

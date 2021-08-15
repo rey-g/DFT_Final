@@ -1,0 +1,32 @@
+===== SYSTEM GCl =====
+
+0.5/
+	!    total energy              =    -644.77133656 Ry
+
+1.0/
+	!    total energy              =    -644.92264458 Ry
+
+1.5/
+	!    total energy              =    -644.99453587 Ry
+
+2.0/
+	!    total energy              =    -645.04079115 Ry
+
+2.5/
+	!    total energy              =    -645.03769371 Ry
+
+3.0/
+	!    total energy              =    -645.01442498 Ry
+
+3.5/
+	!    total energy              =    -644.99234871 Ry
+
+4.0/
+	!    total energy              =    -644.97814857 Ry
+
+4.5/
+	!    total energy              =    -644.96926897 Ry
+
+5.0/
+	!    total energy              =    -644.96342418 Ry
+

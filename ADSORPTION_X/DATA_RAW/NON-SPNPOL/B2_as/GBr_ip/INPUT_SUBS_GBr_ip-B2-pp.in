@@ -1,0 +1,15 @@
+&INPUTPP
+          outdir = './tmp_subs/'
+          prefix = 'GBr_ip-subs'
+          filplot = 'GBr_ip-subs-dens'
+          plot_num = 0,
+          spin_component = 0
+/
+&PLOT
+          nfile = 1
+          filepp(1) = 'GBr_ip-subs-dens'
+          weight(1) = 1.0,
+          fileout = 'GBr_ip-subs-dens.xsf'
+          iflag = 3
+          output_format = 5
+/

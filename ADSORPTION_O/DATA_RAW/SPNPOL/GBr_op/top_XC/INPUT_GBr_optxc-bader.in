@@ -1,0 +1,15 @@
+&INPUTPP
+                 outdir= './tmp/'
+                 prefix = 'GBr_op' ,
+                 filplot = 'GBr_chgbader'
+                 plot_num = 0,
+                 spin_component = 0,    
+ /
+&PLOT
+                 nfile = 1 
+                 filepp(1) = 'GBr_chgbader'
+                 weight(1) = 1.0 ,
+                 fileout = 'GBr_chgbader.cube',
+                 iflag  = 3,
+                 output_format = 6,
+ /

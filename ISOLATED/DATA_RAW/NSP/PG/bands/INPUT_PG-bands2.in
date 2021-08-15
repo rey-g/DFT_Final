@@ -1,0 +1,6 @@
+ &BANDS
+                      prefix = 'PG' ,
+                      outdir = './tmp/' ,
+                     filband = 'PG-bands' ,
+                     plot_2d = .false. ,
+ /

@@ -1,0 +1,20 @@
+===== GBr_op =====
+
+top_C/
+	!    total energy              =    -814.52123930 Ry
+
+top_LH/
+	!    total energy              =    -814.28070818 Ry
+
+top_opp/
+	!    total energy              =    -814.28040820 Ry
+
+top_vac/
+	!    total energy              =    -814.63158824 Ry
+
+top_X/
+	!    total energy              =    -814.26839038 Ry
+
+top_XC/
+	!    total energy              =    -814.28004256 Ry
+

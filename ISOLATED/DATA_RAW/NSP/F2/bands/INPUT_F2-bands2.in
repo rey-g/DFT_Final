@@ -1,0 +1,6 @@
+ &BANDS
+                      prefix = 'F2' ,
+                      outdir = './tmp/' ,
+                     filband = 'F2-bands' ,
+                     plot_2d = .false. ,
+ /

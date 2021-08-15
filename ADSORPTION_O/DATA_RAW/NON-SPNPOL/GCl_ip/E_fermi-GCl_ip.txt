@@ -1,0 +1,20 @@
+===== GCl_ip =====
+
+top_C/
+	     the Fermi energy is    -0.9510 ev
+
+top_LH/
+	     the Fermi energy is    -2.0430 ev
+
+top_opp/
+	     the Fermi energy is    -0.9503 ev
+
+top_vac/
+	     the Fermi energy is    -0.9525 ev
+
+top_X/
+	     the Fermi energy is    -2.4042 ev
+
+top_XC/
+	     the Fermi energy is    -0.9505 ev
+

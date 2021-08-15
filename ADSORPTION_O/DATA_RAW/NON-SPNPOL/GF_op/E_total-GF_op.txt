@@ -1,0 +1,20 @@
+===== GF_op =====
+
+top_C/
+	!    total energy              =    -667.10671187 Ry
+
+top_LH/
+	!    total energy              =    -667.17785635 Ry
+
+top_opp/
+	!    total energy              =    -666.77566374 Ry
+
+top_vac/
+	!    total energy              =    -667.09058405 Ry
+
+top_X/
+	!    total energy              =    -667.10052546 Ry
+
+top_XC/
+	!    total energy              =    -667.10671935 Ry
+

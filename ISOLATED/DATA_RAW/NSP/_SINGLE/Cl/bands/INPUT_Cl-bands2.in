@@ -1,0 +1,6 @@
+ &BANDS
+                      prefix = 'Cl' ,
+                      outdir = './tmp/' ,
+                     filband = 'Cl-bands' ,
+                     plot_2d = .false. ,
+ /

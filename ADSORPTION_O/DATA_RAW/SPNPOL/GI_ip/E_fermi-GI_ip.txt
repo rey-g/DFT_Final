@@ -1,0 +1,20 @@
+===== GI_ip =====
+
+top_C/
+	     the Fermi energy is    -1.7358 ev
+
+top_LH/
+	     the Fermi energy is    -1.9294 ev
+
+top_opp/
+	     the Fermi energy is    -2.0055 ev
+
+top_vac/
+	     the Fermi energy is    -1.9291 ev
+
+top_X/
+	     the Fermi energy is    -1.9405 ev
+
+top_XC/
+	     the Fermi energy is    -1.7385 ev
+

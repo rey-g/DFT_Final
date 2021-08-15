@@ -1,0 +1,8 @@
+ &BANDS
+                      prefix = 'PG_tc' ,
+                      outdir = './tmp/' ,
+                     filband = 'PG_tc-bands-up' ,
+                     plot_2d = .false. ,
+    spin_component = 1 ,
+    no_overlap = .true. ,
+ /

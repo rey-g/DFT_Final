@@ -1,0 +1,15 @@
+&INPUTPP
+	outdir = './tmp_subs/'
+	prefix = 'GF_op-subs'
+	filplot = 'GF_chg-up-subs'
+	plot_num = 0,
+	spin_component = 1
+/
+&PLOT
+	nfile = 1
+	filepp(1) = 'GF_chg-up-subs'
+	weight(1) = 1.0,
+	fileout = 'GF_chg-up-subs.xsf'
+	iflag = 3
+	output_format = 5
+/

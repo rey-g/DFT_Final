@@ -1,0 +1,20 @@
+===== GI_op =====
+
+top_C/
+	!    total energy              =    -990.29662754 Ry
+
+top_LH/
+	!    total energy              =    -990.25137707 Ry
+
+top_opp/
+	!    total energy              =    -990.25024817 Ry
+
+top_vac/
+	!    total energy              =    -990.58220483 Ry
+
+top_X/
+	!    total energy              =    -990.23974214 Ry
+
+top_XC/
+	!    total energy              =    -990.25012036 Ry
+

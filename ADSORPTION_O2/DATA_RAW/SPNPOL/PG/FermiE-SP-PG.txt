@@ -1,0 +1,16 @@
+PG
+
+top_C/
+X/:	     the Fermi energy is    -2.0410 ev
+Y/:	     the Fermi energy is    -2.0347 ev
+Z/:	     the Fermi energy is    -2.0391 ev
+
+top_LH/
+X/:	     the Fermi energy is    -2.0816 ev
+Y/:	     the Fermi energy is    -2.0821 ev
+Z/:	     the Fermi energy is    -2.0331 ev
+
+top_XC/
+N/:	     the Fermi energy is    -2.0431 ev
+P/:	     the Fermi energy is    -2.2190 ev
+Z/:	     the Fermi energy is    -2.0392 ev

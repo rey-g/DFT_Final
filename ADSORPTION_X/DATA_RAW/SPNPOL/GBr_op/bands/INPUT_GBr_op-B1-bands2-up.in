@@ -1,0 +1,8 @@
+&BANDS
+	prefix = 'GBr_op' ,
+	outdir = './tmp/' ,
+	filband = 'GBr_op-up-bands' ,
+	plot_2d = .false. ,
+    spin_component = 1 ,
+    no_overlap = .true. ,
+/

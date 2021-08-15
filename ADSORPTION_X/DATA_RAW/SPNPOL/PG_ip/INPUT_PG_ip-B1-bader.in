@@ -1,0 +1,15 @@
+&INPUTPP
+                 outdir= './tmp/'
+                 prefix = 'PG_ip' ,
+                 filplot = 'PG_ip-bader'
+                 plot_num = 0,
+                 spin_component = 0,    
+ /
+&PLOT
+                 nfile = 1 
+                 filepp(1) = 'PG_ip-bader'
+                 weight(1) = 1.0 ,
+                 fileout = 'PG_ip-bader.cube',
+                 iflag  = 3,
+                 output_format = 6
+ /

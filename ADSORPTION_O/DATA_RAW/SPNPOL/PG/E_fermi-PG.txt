@@ -1,0 +1,11 @@
+===== PG =====
+
+top_C/
+	     the Fermi energy is    -2.4876 ev
+
+top_LH/
+	     the Fermi energy is    -2.5895 ev
+
+top_XC/
+	     the Fermi energy is    -2.0077 ev
+

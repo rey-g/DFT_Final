@@ -1,0 +1,8 @@
+ &BANDS
+                      prefix = 'PG_tlh' ,
+                      outdir = './tmp/' ,
+                     filband = 'PG_tlh-bands-dn' ,
+                     plot_2d = .false. ,
+    spin_component = 2 ,
+    no_overlap = .true. ,
+ /

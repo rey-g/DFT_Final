@@ -1,0 +1,32 @@
+===== SYSTEM GI =====
+
+0.5/
+	!    total energy              =    -946.01320662 Ry
+
+1.0/
+	!    total energy              =    -947.19523509 Ry
+
+1.5/
+	!    total energy              =    -947.59663960 Ry
+
+2.0/
+	!    total energy              =    -947.70534542 Ry
+
+2.5/
+	!    total energy              =    -947.72739580 Ry
+
+3.0/
+	!    total energy              =    -947.71413314 Ry
+
+3.5/
+	!    total energy              =    -947.69242205 Ry
+
+4.0/
+	!    total energy              =    -947.67587260 Ry
+
+4.5/
+	!    total energy              =    -947.66557938 Ry
+
+5.0/
+	!    total energy              =    -947.65904567 Ry
+

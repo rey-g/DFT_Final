@@ -1,0 +1,15 @@
+&INPUTPP
+          outdir = './tmp/'
+          prefix = 'MVG_ip'
+          filplot = 'MVG_ip-dens'
+          plot_num = 0,
+          spin_component = 0
+/
+&PLOT
+          nfile = 1
+          filepp(1) = 'MVG_ip-dens'
+          weight(1) = 1.0,
+          fileout = 'MVG_ip-dens.xsf'
+          iflag = 3
+          output_format = 5
+/

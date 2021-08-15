@@ -1,0 +1,20 @@
+===== GI_ip =====
+
+top_C/
+	!    total energy              =    -990.37235412 Ry
+
+top_LH/
+	!    total energy              =    -990.12572153 Ry
+
+top_opp/
+	!    total energy              =    -990.18556159 Ry
+
+top_vac/
+	!    total energy              =    -990.12572803 Ry
+
+top_X/
+	!    total energy              =    -990.12292879 Ry
+
+top_XC/
+	!    total energy              =    -990.37237904 Ry
+

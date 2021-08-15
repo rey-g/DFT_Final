@@ -1,0 +1,20 @@
+===== GI_op =====
+
+top_C/
+	     the Fermi energy is    -2.3361 ev
+
+top_LH/
+	     the Fermi energy is    -2.5734 ev
+
+top_opp/
+	     the Fermi energy is    -2.5459 ev
+
+top_vac/
+	     the Fermi energy is    -2.6283 ev
+
+top_X/
+	     the Fermi energy is    -2.8390 ev
+
+top_XC/
+	     the Fermi energy is    -2.5549 ev
+

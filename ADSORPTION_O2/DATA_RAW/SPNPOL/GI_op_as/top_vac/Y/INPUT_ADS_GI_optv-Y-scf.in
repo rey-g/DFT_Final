@@ -1,0 +1,40 @@
+ &CONTROL
+                 calculation = 'scf' ,
+                      outdir = './tmp_ads/' ,
+                  pseudo_dir = '/home/deleted/pseudo_psl' ,
+                      prefix = 'GI_op-ads' ,
+                   verbosity = 'high' ,
+               etot_conv_thr = 1.0D-5 ,
+               forc_conv_thr = 4.0D-4 ,
+                       nstep = 1000 ,
+                    dipfield = .true. ,
+ /
+ &SYSTEM
+                       ibrav = 4,
+                           A = 9.88 ,
+                           C = 15 ,
+                         nat = 2,
+                        ntyp = 1,
+                     ecutwfc = 40.424239707 ,
+                     ecutrho = 404.24239707 ,
+                 occupations = 'smearing' ,
+                     degauss = 0.01 ,
+				   input_dft = 'vdW-DF' ,
+    nspin = 2 ,
+    starting_magnetization(1) = 0.5,
+ /
+ &ELECTRONS
+            electron_maxstep = 50001,
+                    conv_thr = 1.0D-6 ,
+                 mixing_mode = 'local-TF' ,
+                 mixing_beta = 0.5 ,
+ /
+ATOMIC_SPECIES
+    O   15.99940  O.revpbe-n-kjpaw_psl.0.1.UPF 
+
+ATOMIC_POSITIONS (crystal)
+O        0.547079109   0.594158217   0.187119468
+O        0.488823745   0.477647491   0.237040217
+K_POINTS automatic 
+  16 16 1   0 0 0 
+

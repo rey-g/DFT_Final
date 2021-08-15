@@ -1,0 +1,15 @@
+&INPUTPP
+                 outdir= './tmp/'
+                 prefix = 'B1_ipD' ,
+                 filplot = 'B1_ipD-bader'
+                 plot_num = 0,
+                 spin_component = 0,    
+ /
+&PLOT
+                 nfile = 1 
+                 filepp(1) = 'B1_ipD-bader'
+                 weight(1) = 1.0 ,
+                 fileout = 'B1_ipD-bader.cube',
+                 iflag  = 3,
+                 output_format = 6
+ /

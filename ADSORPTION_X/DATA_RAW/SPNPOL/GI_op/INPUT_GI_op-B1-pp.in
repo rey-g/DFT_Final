@@ -1,0 +1,15 @@
+&INPUTPP
+	outdir = './tmp/'
+	prefix = 'GI_op'
+	filplot = 'GI_op-den'
+	plot_num = 0,
+	spin_component = 0
+/
+&PLOT
+	nfile = 1
+	filepp(1) = 'GI_op-den'
+	weight(1) = 1.0,
+	fileout = 'GI_op-den.xsf'
+	iflag = 3
+	output_format = 5
+/

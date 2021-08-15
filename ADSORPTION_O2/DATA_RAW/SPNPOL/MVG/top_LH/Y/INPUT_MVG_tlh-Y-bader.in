@@ -1,0 +1,15 @@
+&INPUTPP
+                 outdir= './tmp/'
+                 prefix = 'MVG_tlh' ,
+                 filplot = 'MVG_tlh-bader'
+                 plot_num = 0,
+                 spin_component = 0,    
+ /
+&PLOT
+                 nfile = 1 
+                 filepp(1) = 'MVG_tlh-bader'
+                 weight(1) = 1.0 ,
+                 fileout = 'MVG_tlh-bader.cube',
+                 iflag  = 3,
+                 output_format = 6
+ /

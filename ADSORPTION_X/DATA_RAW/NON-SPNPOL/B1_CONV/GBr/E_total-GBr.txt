@@ -1,0 +1,32 @@
+===== SYSTEM GBr =====
+
+0.5/
+	!    total energy              =    -771.63227315 Ry
+
+1.0/
+	!    total energy              =    -771.99247616 Ry
+
+1.5/
+	!    total energy              =    -772.08909469 Ry
+
+2.0/
+	!    total energy              =    -772.12749012 Ry
+
+2.5/
+	!    total energy              =    -772.13853672 Ry
+
+3.0/
+	!    total energy              =    -772.13083399 Ry
+
+3.5/
+	!    total energy              =    -772.12256811 Ry
+
+4.0/
+	!    total energy              =    -772.11549696 Ry
+
+4.5/
+	!    total energy              =    -772.10955916 Ry
+
+5.0/
+	!    total energy              =    -772.10487579 Ry
+

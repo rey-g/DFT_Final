@@ -1,0 +1,15 @@
+&INPUTPP
+          outdir = './tmp/'
+          prefix = 'MVG_tc'
+          filplot = 'MVG_tc-dens-dn'
+          plot_num = 0,
+          spin_component = 2
+/
+&PLOT
+          nfile = 1
+          filepp(1) = 'MVG_tc-dens-dn'
+          weight(1) = 1.0,
+          fileout = 'MVG_tc-dens-dn.xsf'
+          iflag = 3
+          output_format = 5
+/

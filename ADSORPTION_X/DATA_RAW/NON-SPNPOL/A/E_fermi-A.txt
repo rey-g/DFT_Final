@@ -1,0 +1,26 @@
+===== SITE A =====
+
+GBr_ip/
+	     the Fermi energy is    -0.5536 ev
+
+GBr_op/
+	     the Fermi energy is    -2.2158 ev
+
+GCl_ip/
+	     the Fermi energy is    -0.6289 ev
+
+GCl_op/
+	     the Fermi energy is    -2.2712 ev
+
+GF_ip/
+	     the Fermi energy is    -1.3822 ev
+
+GF_op/
+	     the Fermi energy is    -2.1285 ev
+
+GI_ip/
+	     the Fermi energy is    -0.4794 ev
+
+GI_op/
+	     the Fermi energy is    -2.0785 ev
+

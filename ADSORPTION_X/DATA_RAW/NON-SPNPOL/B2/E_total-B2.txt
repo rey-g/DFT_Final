@@ -1,0 +1,26 @@
+===== SITE B2 =====
+
+GBr_ip/
+	!    total energy              =    -771.41743354 Ry
+
+GBr_op/
+	!    total energy              =    -771.92514911 Ry
+
+GCl_ip/
+	!    total energy              =    -644.86408193 Ry
+
+GCl_op/
+	!    total energy              =    -645.22276754 Ry
+
+GF_ip/
+	!    total energy              =    -624.35032407 Ry
+
+GF_op/
+	!    total energy              =    -624.49514967 Ry
+
+GI_ip/
+	!    total energy              =    -947.10900793 Ry
+
+GI_op/
+	!    total energy              =    -947.86034260 Ry
+

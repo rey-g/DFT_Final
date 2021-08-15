@@ -1,0 +1,15 @@
+&INPUTPP
+                 outdir= './tmp/'
+                 prefix = 'MVG_tc' ,
+                 filplot = 'MVG_tc-bader'
+                 plot_num = 0,
+                 spin_component = 0,    
+ /
+&PLOT
+                 nfile = 1 
+                 filepp(1) = 'MVG_tc-bader'
+                 weight(1) = 1.0 ,
+                 fileout = 'MVG_tc-bader.cube',
+                 iflag  = 3,
+                 output_format = 6
+ /

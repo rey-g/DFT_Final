@@ -1,0 +1,6 @@
+ &BANDS
+                      prefix = 'OOH' ,
+                      outdir = './tmp/' ,
+                     filband = 'OOH-bands' ,
+                     plot_2d = .false. ,
+ /

@@ -1,0 +1,15 @@
+&INPUTPP
+                 outdir= './tmp/'
+                 prefix = 'GCl_ip' ,
+                 filplot = 'GCl_ip-bader'
+                 plot_num = 0,
+                 spin_component = 0,    
+ /
+&PLOT
+                 nfile = 1 
+                 filepp(1) = 'GCl_ip-bader'
+                 weight(1) = 1.0 ,
+                 fileout = 'GCl_ip-bader.cube',
+                 iflag  = 3,
+                 output_format = 6
+ /

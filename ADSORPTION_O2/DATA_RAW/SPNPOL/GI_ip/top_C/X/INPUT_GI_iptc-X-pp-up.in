@@ -1,0 +1,15 @@
+&INPUTPP
+	outdir = './tmp/'
+	prefix = 'GI_ip'
+	filplot = 'GI_chg-up'
+	plot_num = 0,
+	spin_component = 1
+/
+&PLOT
+	nfile = 1
+	filepp(1) = 'GI_chg-up'
+	weight(1) = 1.0,
+	fileout = 'GI_chg-up.xsf'
+	iflag = 3
+	output_format = 5
+/

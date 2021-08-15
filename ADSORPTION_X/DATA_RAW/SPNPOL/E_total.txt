@@ -1,0 +1,32 @@
+===== GF_ip =====
+
+!    total energy              =    -624.70462432 Ry
+
+===== GF_op =====
+
+!    total energy              =    -624.70706861 Ry
+
+===== GCl_ip =====
+
+!    total energy              =    -645.39573854 Ry
+
+===== GCl_op =====
+
+!    total energy              =    -645.46391097 Ry
+
+===== GBr_ip =====
+
+!    total energy              =    -772.14138910 Ry
+
+===== GBr_op =====
+
+!    total energy              =    -772.22092249 Ry
+
+===== GI_ip =====
+
+!    total energy              =    -948.02831862 Ry
+
+===== GI_op =====
+
+!    total energy              =    -948.17379719 Ry
+

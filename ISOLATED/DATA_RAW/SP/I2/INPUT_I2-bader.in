@@ -1,0 +1,15 @@
+&INPUTPP
+                 outdir= './tmp/'
+                 prefix = 'I2' ,
+                 filplot = 'I2-bader'
+                 plot_num = 0,
+                 spin_component = 0,    
+ /
+&PLOT
+                 nfile = 1 
+                 filepp(1) = 'I2-bader'
+                 weight(1) = 1.0 ,
+                 fileout = 'I2-bader.cube',
+                 iflag  = 3,
+                 output_format = 6
+ /

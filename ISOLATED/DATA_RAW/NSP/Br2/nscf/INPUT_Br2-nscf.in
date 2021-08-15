@@ -1,0 +1,37 @@
+ &CONTROL
+                 calculation = 'nscf' ,
+                      outdir = './tmp/' ,
+                  pseudo_dir = '/home/deleted/pseudo_psl' ,
+                      prefix = 'Br2' ,
+                    dipfield = .true. ,
+                   verbosity = 'high',
+                       nstep = 1000,
+               forc_conv_thr = 4.0D-4,
+               etot_conv_thr = 1.0D-5
+ /
+ &SYSTEM
+                       ibrav = 4,
+                           A = 9.88 ,
+                           C = 15 ,
+                         nat = 2,
+                        ntyp = 1,
+                     ecutwfc = 40.424239707 ,
+                     ecutrho = 404.24239707 ,
+                 occupations = 'tetrahedra' ,
+                     degauss = 0.01 ,
+				   input_dft = 'vdW-DF' ,
+ /
+ &ELECTRONS
+            electron_maxstep = 50001,
+                    conv_thr = 1.0D-6 ,
+                 mixing_mode = 'local-TF' ,
+                 mixing_beta = 0.5 ,
+ /
+ATOMIC_SPECIES
+   Br   79.90350  Br.revpbe-n-kjpaw_psl.0.2.UPF 
+ATOMIC_POSITIONS crystal 
+Br       0.000000000  -0.096115479   0.000000000
+Br       0.000000000   0.666115479   0.000000000
+K_POINTS automatic 
+  20 20 1   0 0 0 
+

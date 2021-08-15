@@ -1,0 +1,15 @@
+&INPUTPP
+          outdir = './tmp/'
+          prefix = 'OH'
+          filplot = 'OH-dens-dn'
+          plot_num = 0,
+          spin_component = 2
+/
+&PLOT
+          nfile = 1
+          filepp(1) = 'OH-dens-dn'
+          weight(1) = 1.0,
+          fileout = 'OH-dens-dn.xsf'
+          iflag = 3
+          output_format = 5
+/

@@ -1,0 +1,6 @@
+ &BANDS
+                      prefix = 'Br2' ,
+                      outdir = './tmp/' ,
+                     filband = 'Br2-bands' ,
+                     plot_2d = .false. ,
+ /

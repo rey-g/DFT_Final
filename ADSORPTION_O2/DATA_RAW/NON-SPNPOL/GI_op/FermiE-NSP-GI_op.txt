@@ -1,0 +1,31 @@
+GI_op
+
+top_C/
+X/:	     the Fermi energy is    -2.4720 ev
+Y/:	     the Fermi energy is    -2.4720 ev
+Z/:	     the Fermi energy is    -2.6224 ev
+
+top_LH/
+X/:	     the Fermi energy is    -2.6352 ev
+Y/:	     the Fermi energy is    -2.6111 ev
+Z/:	     the Fermi energy is    -2.6257 ev
+
+top_opp/
+X/:	     the Fermi energy is    -2.4335 ev
+Y/:	     the Fermi energy is    -2.6409 ev
+Z/:	     the Fermi energy is    -2.6206 ev
+
+top_vac/
+X/:	     the Fermi energy is    -2.3875 ev
+Y/:	     the Fermi energy is    -2.6429 ev
+Z/:	     the Fermi energy is    -2.6215 ev
+
+top_X/
+X/:	     the Fermi energy is    -2.8275 ev
+Y/:	     the Fermi energy is    -2.6780 ev
+Z/:	     the Fermi energy is    -2.6787 ev
+
+top_XC/
+N/:	     the Fermi energy is    -2.6142 ev
+P/:	     the Fermi energy is    -2.8446 ev
+Z/:	     the Fermi energy is    -2.6120 ev

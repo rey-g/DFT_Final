@@ -1,0 +1,20 @@
+===== GBr_ip =====
+
+top_C/
+	!    total energy              =    -814.41776397 Ry
+
+top_LH/
+	!    total energy              =    -814.41776581 Ry
+
+top_opp/
+	!    total energy              =    -814.11800433 Ry
+
+top_vac/
+	!    total energy              =    -814.12075240 Ry
+
+top_X/
+	!    total energy              =    -814.12878516 Ry
+
+top_XC/
+	!    total energy              =    -814.41776714 Ry
+

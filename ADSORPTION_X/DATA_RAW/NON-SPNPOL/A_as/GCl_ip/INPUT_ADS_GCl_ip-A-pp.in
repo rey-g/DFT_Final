@@ -1,0 +1,15 @@
+&INPUTPP
+          outdir = './tmp_ads/'
+          prefix = 'GCl_ip-ads'
+          filplot = 'GCl_ip-ads-dens'
+          plot_num = 0,
+          spin_component = 0
+/
+&PLOT
+          nfile = 1
+          filepp(1) = 'GCl_ip-ads-dens'
+          weight(1) = 1.0,
+          fileout = 'GCl_ip-ads-dens.xsf'
+          iflag = 3
+          output_format = 5
+/

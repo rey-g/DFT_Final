@@ -1,0 +1,15 @@
+&INPUTPP
+                 outdir= './tmp_subs/'
+                 prefix = 'GF_op_subs' ,
+                 filplot = 'GF_chgbader_subs'
+                 plot_num = 0,
+                 spin_component = 0,    
+ /
+&PLOT
+                 nfile = 1 
+                 filepp(1) = 'GF_chgbader_subs'
+                 weight(1) = 1.0 ,
+                 fileout = 'GF_chgbader_subs.cube',
+                 iflag  = 3,
+                 output_format = 6
+ /

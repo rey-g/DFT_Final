@@ -1,0 +1,15 @@
+&INPUTPP
+          outdir = './tmp/'
+          prefix = 'PG'
+          filplot = 'PG-dens-up'
+          plot_num = 0,
+          spin_component = 1
+/
+&PLOT
+          nfile = 1
+          filepp(1) = 'PG-dens-up'
+          weight(1) = 1.0,
+          fileout = 'PG-dens-up.xsf'
+          iflag = 3
+          output_format = 5
+/

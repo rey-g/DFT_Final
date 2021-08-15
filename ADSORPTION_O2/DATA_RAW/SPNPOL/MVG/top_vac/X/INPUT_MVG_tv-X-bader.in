@@ -1,0 +1,15 @@
+&INPUTPP
+                 outdir= './tmp/'
+                 prefix = 'MVG_tv' ,
+                 filplot = 'MVG_tv-bader'
+                 plot_num = 0,
+                 spin_component = 0,    
+ /
+&PLOT
+                 nfile = 1 
+                 filepp(1) = 'MVG_tv-bader'
+                 weight(1) = 1.0 ,
+                 fileout = 'MVG_tv-bader.cube',
+                 iflag  = 3,
+                 output_format = 6
+ /

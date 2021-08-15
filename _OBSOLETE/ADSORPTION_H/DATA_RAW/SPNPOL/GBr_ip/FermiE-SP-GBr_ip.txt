@@ -1,0 +1,31 @@
+GBr_ip
+
+top_C/
+X/:	     the Fermi energy is    -1.7919 ev
+Y/:	     the Fermi energy is    -1.5181 ev
+Z/:	     the Fermi energy is    -1.5955 ev
+
+top_LH/
+X/:	     the Fermi energy is    -1.6143 ev
+Y/:	     the Fermi energy is    -1.5906 ev
+Z/:	     the Fermi energy is    -1.5923 ev
+
+top_opp/
+X/:	     the Fermi energy is    -1.6026 ev
+Y/:	     the Fermi energy is    -1.5066 ev
+Z/:	     the Fermi energy is    -1.5079 ev
+
+top_vac/
+X/:	     the Fermi energy is    -1.5573 ev
+Y/:	     the Fermi energy is    -1.6194 ev
+Z/:	     the Fermi energy is    -1.5216 ev
+
+top_X/
+X/:	     the Fermi energy is    -1.5841 ev
+Y/:	     the Fermi energy is    -1.5851 ev
+Z/:	     the Fermi energy is    -1.5888 ev
+
+top_XC/
+N/:	     the Fermi energy is    -1.7888 ev
+P/:	     the Fermi energy is    -1.4915 ev
+Z/:	     the Fermi energy is    -1.5093 ev

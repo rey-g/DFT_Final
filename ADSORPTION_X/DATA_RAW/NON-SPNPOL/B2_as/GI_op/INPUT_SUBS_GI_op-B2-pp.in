@@ -1,0 +1,15 @@
+&INPUTPP
+	outdir = './tmp_subs/'
+	prefix = 'GI_op-subs'
+	filplot = 'GI_op-subs-dens'
+	plot_num = 0,
+	spin_component = 0
+/
+&PLOT
+	nfile = 1
+	filepp(1) = 'GI_op-subs-dens'
+	weight(1) = 1.0,
+	fileout = 'GI_op-subs-dens.xsf'
+	iflag = 3
+	output_format = 5
+/

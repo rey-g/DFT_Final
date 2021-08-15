@@ -1,0 +1,39 @@
+ &CONTROL
+                 calculation = 'relax' ,
+                      outdir = './tmp/' ,
+                  pseudo_dir = '/home/deleted/pseudo_psl' ,
+                      prefix = 'C' ,
+                   verbosity = 'high' ,
+               etot_conv_thr = 1.0D-5 ,
+               forc_conv_thr = 4.0D-4 ,
+                       nstep = 1000 ,
+                    dipfield = .true. ,
+ /
+ &SYSTEM
+                       ibrav = 4,
+                           A = 9.88 ,
+                           C = 15 ,
+                         nat = 1,
+                        ntyp = 1,
+                     ecutwfc = 40.424239707 ,
+                     ecutrho = 404.24239707 ,
+                 occupations = 'smearing' ,
+                     degauss = 0.01 ,
+				   input_dft = 'vdW-DF' ,
+ /
+ &ELECTRONS
+            electron_maxstep = 50001,
+                    conv_thr = 1.0D-6 ,
+                 mixing_mode = 'local-TF' ,
+                 mixing_beta = 0.5 ,
+ /
+ &IONS
+                ion_dynamics = 'bfgs' ,
+ /
+ATOMIC_SPECIES
+    C   12.01100  C.revpbe-n-kjpaw_psl.0.1.UPF 
+ATOMIC_POSITIONS crystal 
+   C      0.000000000    0.000000000    0.000000000
+K_POINTS automatic 
+  4 4 1   0 0 0 
+

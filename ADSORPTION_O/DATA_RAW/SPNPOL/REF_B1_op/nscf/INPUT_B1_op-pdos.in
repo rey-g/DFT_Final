@@ -1,0 +1,9 @@
+&PROJWFC
+  outdir = './tmp',
+  prefix = 'B1_op',
+  filpdos = 'B1_op-pdos',
+  ngauss = 1,
+  degauss = 0.01,
+  DeltaE = 0.01,
+  lsym = .true.
+/

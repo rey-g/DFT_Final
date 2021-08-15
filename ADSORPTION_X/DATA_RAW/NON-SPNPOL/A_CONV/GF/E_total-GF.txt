@@ -1,0 +1,32 @@
+===== SYSTEM GF =====
+
+0.5/
+	!    total energy              =    -643.38405076 Ry
+
+1.0/
+	!    total energy              =    -643.53794346 Ry
+
+1.5/
+	!    total energy              =    -643.59985603 Ry
+
+2.0/
+	!    total energy              =    -643.58918052 Ry
+
+2.5/
+	!    total energy              =    -643.55805535 Ry
+
+3.0/
+	!    total energy              =    -643.53113357 Ry
+
+3.5/
+	!    total energy              =    -643.51451222 Ry
+
+4.0/
+	!    total energy              =    -643.50393067 Ry
+
+4.5/
+	!    total energy              =    -643.49644554 Ry
+
+5.0/
+	!    total energy              =    -643.49110395 Ry
+

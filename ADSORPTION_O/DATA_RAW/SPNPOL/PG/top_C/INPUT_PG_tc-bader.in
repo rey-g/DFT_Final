@@ -1,0 +1,15 @@
+&INPUTPP
+                 outdir= './tmp/'
+                 prefix = 'PG_tc' ,
+                 filplot = 'PG_tc-bader'
+                 plot_num = 0,
+                 spin_component = 0,    
+ /
+&PLOT
+                 nfile = 1 
+                 filepp(1) = 'PG_tc-bader'
+                 weight(1) = 1.0 ,
+                 fileout = 'PG_tc-bader.cube',
+                 iflag  = 3,
+                 output_format = 6
+ /

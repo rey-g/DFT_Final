@@ -1,0 +1,20 @@
+===== GCl_ip =====
+
+top_C/
+	!    total energy              =    -687.93309729 Ry
+
+top_LH/
+	!    total energy              =    -687.86457929 Ry
+
+top_opp/
+	!    total energy              =    -687.39316580 Ry
+
+top_vac/
+	!    total energy              =    -687.86457840 Ry
+
+top_X/
+	!    total energy              =    -687.48544420 Ry
+
+top_XC/
+	!    total energy              =    -687.86458060 Ry
+

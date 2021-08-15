@@ -1,0 +1,8 @@
+ &BANDS
+    prefix = 'MVG_ip' ,
+    outdir = './tmp/' ,
+    filband = 'MVG_ip-up-bands' ,
+    plot_2d = .false. ,
+    spin_component = 1 ,
+    no_overlap = .true. ,
+ /

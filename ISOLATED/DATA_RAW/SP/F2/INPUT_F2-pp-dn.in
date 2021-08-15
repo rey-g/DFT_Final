@@ -1,0 +1,15 @@
+&INPUTPP
+          outdir = './tmp/'
+          prefix = 'F2'
+          filplot = 'F2-dens-dn'
+          plot_num = 0,
+          spin_component = 2
+/
+&PLOT
+          nfile = 1
+          filepp(1) = 'F2-dens-dn'
+          weight(1) = 1.0,
+          fileout = 'F2-dens-dn.xsf'
+          iflag = 3
+          output_format = 5
+/

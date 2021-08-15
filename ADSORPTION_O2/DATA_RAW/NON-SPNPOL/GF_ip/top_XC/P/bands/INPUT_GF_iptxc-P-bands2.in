@@ -1,0 +1,6 @@
+ &BANDS
+                      prefix = 'GF_ip' ,
+                      outdir = './tmp/' ,
+                     filband = 'GF_bands' ,
+                     plot_2d = .false. ,
+ /

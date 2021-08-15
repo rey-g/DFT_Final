@@ -1,0 +1,20 @@
+===== MVG =====
+
+top_C/
+	     the Fermi energy is    -2.4434 ev
+
+top_LH/
+	     the Fermi energy is    -1.3640 ev
+
+top_opp/
+	     the Fermi energy is    -2.4430 ev
+
+top_vac/
+	     the Fermi energy is    -1.3635 ev
+
+top_X/
+	     the Fermi energy is    -2.4438 ev
+
+top_XC/
+	     the Fermi energy is    -2.4430 ev
+

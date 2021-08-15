@@ -1,0 +1,31 @@
+GF_op
+
+top_C/
+X/:	!    total energy              =    -709.52215600 Ry
+Y/:	!    total energy              =    -709.07660754 Ry
+Z/:	!    total energy              =    -709.07660456 Ry
+
+top_LH/
+X/:	!    total energy              =    -709.52215098 Ry
+Y/:	!    total energy              =    -709.30966058 Ry
+Z/:	!    total energy              =    -708.91124242 Ry
+
+top_opp/
+X/:	!    total energy              =    -708.87472155 Ry
+Y/:	!    total energy              =    -708.89665206 Ry
+Z/:	!    total energy              =    -708.88273831 Ry
+
+top_vac/
+X/:	!    total energy              =    -709.18816801 Ry
+Y/:	!    total energy              =    -709.47310512 Ry
+Z/:	!    total energy              =    -709.13485812 Ry
+
+top_X/
+X/:	!    total energy              =    -708.87462319 Ry
+Y/:	!    total energy              =    -708.88273083 Ry
+Z/:	!    total energy              =    -708.97951641 Ry
+
+top_XC/
+N/:	!    total energy              =    -709.52215337 Ry
+P/:	!    total energy              =    -709.07659310 Ry
+Z/:	!    total energy              =    -709.07659064 Ry

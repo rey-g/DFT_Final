@@ -1,0 +1,15 @@
+&INPUTPP
+	outdir = './tmp_ads/'
+	prefix = 'GI_op-ads'
+	filplot = 'GI_op-ads-dens'
+	plot_num = 0,
+	spin_component = 0
+/
+&PLOT
+	nfile = 1
+	filepp(1) = 'GI_op-ads-dens'
+	weight(1) = 1.0,
+	fileout = 'GI_op-ads-dens.xsf'
+	iflag = 3
+	output_format = 5
+/

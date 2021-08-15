@@ -1,0 +1,8 @@
+ &BANDS
+    prefix = 'MVG_op' ,
+    outdir = './tmp/' ,
+    filband = 'MVG_op-up-bands' ,
+    plot_2d = .false. ,
+    spin_component = 1 ,
+    no_overlap = .true. ,
+ /

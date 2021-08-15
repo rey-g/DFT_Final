@@ -1,0 +1,6 @@
+ &BANDS
+                      prefix = 'MVG' ,
+                      outdir = './tmp/' ,
+                     filband = 'MVG-bands' ,
+                     plot_2d = .false. ,
+ /

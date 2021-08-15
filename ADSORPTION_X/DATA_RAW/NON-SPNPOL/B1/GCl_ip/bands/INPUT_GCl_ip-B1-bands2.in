@@ -1,0 +1,6 @@
+ &BANDS
+                      prefix = 'GCl_ip' ,
+                      outdir = './tmp/' ,
+                     filband = 'GCl_ip-bands' ,
+                     plot_2d = .false. ,
+ /

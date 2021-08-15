@@ -1,0 +1,15 @@
+&INPUTPP
+                 outdir= './tmp/'
+                 prefix = 'MVG_txc' ,
+                 filplot = 'MVG_txc-bader'
+                 plot_num = 0,
+                 spin_component = 0,    
+ /
+&PLOT
+                 nfile = 1 
+                 filepp(1) = 'MVG_txc-bader'
+                 weight(1) = 1.0 ,
+                 fileout = 'MVG_txc-bader.cube',
+                 iflag  = 3,
+                 output_format = 6
+ /

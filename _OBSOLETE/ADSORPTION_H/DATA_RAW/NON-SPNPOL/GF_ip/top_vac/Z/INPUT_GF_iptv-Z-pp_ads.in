@@ -1,0 +1,15 @@
+&INPUTPP
+	outdir = './tmp_ads/'
+	prefix = 'GF_ip_ads'
+	filplot = 'GF_chg_ads'
+	plot_num = 0,
+	spin_component = 0
+/
+&PLOT
+	nfile = 1
+	filepp(1) = 'GF_chg_ads'
+	weight(1) = 1.0,
+	fileout = 'GF_chg_ads.xsf'
+	iflag = 3
+	output_format = 5
+/

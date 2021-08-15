@@ -1,0 +1,15 @@
+&INPUTPP
+          outdir = './tmp/'
+          prefix = 'G_B3'
+          filplot = 'G_B3-dens'
+          plot_num = 0,
+          spin_component = 0
+/
+&PLOT
+          nfile = 1
+          filepp(1) = 'G_B3-dens'
+          weight(1) = 1.0,
+          fileout = 'G_B3-dens.xsf'
+          iflag = 3
+          output_format = 5
+/

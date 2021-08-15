@@ -1,0 +1,17 @@
+PG
+
+top_C/
+X/:	!    total energy              =    -687.27555091 Ry
+Y/:	!    total energy              =    -687.27578981 Ry
+Z/:	!    total energy              =    -687.27301472 Ry
+
+top_LH/
+X/:	!    total energy              =    -687.27488474 Ry
+Y/:	!    total energy              =    -687.27490026 Ry
+Z/:	     Not a group! Trying with lower acceptance parameter...
+!    total energy              =    -687.27346585 Ry
+
+top_XC/
+N/:	!    total energy              =    -687.27561817 Ry
+P/:	!    total energy              =    -687.09503006 Ry
+Z/:	!    total energy              =    -687.27305423 Ry

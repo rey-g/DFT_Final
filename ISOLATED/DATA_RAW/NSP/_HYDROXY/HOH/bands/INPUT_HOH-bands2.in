@@ -1,0 +1,6 @@
+ &BANDS
+                      prefix = 'HOH' ,
+                      outdir = './tmp/' ,
+                     filband = 'HOH-bands' ,
+                     plot_2d = .false. ,
+ /

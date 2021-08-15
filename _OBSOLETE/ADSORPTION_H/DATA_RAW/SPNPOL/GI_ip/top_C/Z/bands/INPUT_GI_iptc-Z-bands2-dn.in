@@ -1,0 +1,8 @@
+ &BANDS
+                      prefix = 'GI_ip' ,
+                      outdir = './tmp/' ,
+                     filband = 'GI_bands-dn' ,
+                     plot_2d = .false. ,
+    spin_component = 2 ,
+    no_overlap = .true. ,
+ /

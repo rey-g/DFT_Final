@@ -1,0 +1,31 @@
+GBr_ip
+
+top_C/
+X/:	!    total energy              =    -856.36890879 Ry
+Y/:	!    total energy              =    -856.36890036 Ry
+Z/:	!    total energy              =    -856.36890380 Ry
+
+top_LH/
+X/:	!    total energy              =    -856.36907093 Ry
+Y/:	!    total energy              =    -856.36871868 Ry
+Z/:	!    total energy              =    -856.36907728 Ry
+
+top_opp/
+X/:	!    total energy              =    -856.36585640 Ry
+Y/:	!    total energy              =    -856.36909931 Ry
+Z/:	!    total energy              =    -856.36909971 Ry
+
+top_vac/
+X/:	!    total energy              =    -856.36740370 Ry
+Y/:	!    total energy              =    -856.36902738 Ry
+Z/:	!    total energy              =    -856.36892239 Ry
+
+top_X/
+X/:	!    total energy              =    -856.36781300 Ry
+Y/:	!    total energy              =    -856.36872469 Ry
+Z/:	!    total energy              =    -856.36533997 Ry
+
+top_XC/
+N/:	!    total energy              =    -856.36896249 Ry
+P/:	!    total energy              =    -856.94418133 Ry
+Z/:	!    total energy              =    -856.36886565 Ry

@@ -1,0 +1,35 @@
+&CONTROL
+	calculation = 'scf' ,
+	outdir = './tmp_ads/' ,
+	pseudo_dir = '/home/deleted/pseudo_psl' ,
+	prefix = 'GBr_op-ads' ,
+	verbosity = 'high' ,
+	etot_conv_thr = 1.0D-5 ,
+	forc_conv_thr = 4.0D-4 ,
+	nstep = 1000 ,
+	dipfield = .true. ,
+/
+&SYSTEM
+	ibrav = 4,
+	A = 9.88 ,
+	C = 15 ,
+	nat = 1,
+	ntyp = 1,
+	ecutwfc = 40.424239707 ,
+	ecutrho = 404.24239707 ,
+	occupations = 'smearing' ,
+	degauss = 0.01 ,
+    input_dft = 'vdW-DF' ,
+/
+&ELECTRONS
+	electron_maxstep = 50001,
+	conv_thr = 1.0D-6 ,
+	mixing_mode = 'local-TF' ,
+	mixing_beta = 0.5 ,
+/
+ATOMIC_SPECIES
+	Br	79.90350	Br.revpbe-n-kjpaw_psl.0.2.UPF  
+ATOMIC_POSITIONS crystal 
+Br       0.303133485   0.106266971   0.158597301
+K_POINTS automatic 
+	16 16 1   0 0 0 
